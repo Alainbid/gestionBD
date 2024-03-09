@@ -1,0 +1,49 @@
+.App {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  h3{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    color: wheat;
+  }
+  .form{
+    margin-top: 15px;
+    border-radius: 20px;
+    padding-right: 5px;
+    height: 138px;
+    width: 448px;
+    background-color: #eaebf1;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 12px;
+    /* align-content: flex-end; */
+    align-items: flex-end;
+  }
+  input{
+    margin-top: 10px;
+    margin-left: 26px;
+    font-size: 1.2rem;  
+   }
+  label{
+    font-size: medium;
+    margin-right: 20px;
+    margin-bottom: 5px;
+  }
+  button{
+    margin-bottom: 10px;
+    
+    height: 30px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-right: 50px;
+  }
+  
+  
+  
+  
+  
+  
