@@ -1,0 +1,22 @@
+.btn{
+    cursor: pointer;
+    margin-top: 5px;
+    margin-left: 57px;
+    font-size: 1.4rem;
+    width: 90px;
+    height: 40px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c0d4f54d;
+}
+.panneau{
+    border-width: thin;
+    border-radius: 20px;
+    border-color: brown;
+    padding: 10px;
+    
+    border-style: solid;
+    border-style: solid 1px black;
+}
